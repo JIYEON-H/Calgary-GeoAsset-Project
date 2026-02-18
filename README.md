@@ -64,7 +64,7 @@ This project features a robust .NET backend, a modern React frontend, and is ful
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/JIYEON-H/geoasset-project.git
+git clone https://github.com/JIYEON-H/Calgary-GeoAsset-Project.git
 cd geoasset-project
 ```
 
