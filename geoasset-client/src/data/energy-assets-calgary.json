@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Deerfoot Solar Array North",
+    "type": "Solar",
+    "latitude": 51.0823,
+    "longitude": -113.9872,
+    "status": "Active",
+    "lastUpdated": "2025-02-10T14:22:00Z"
+  },
+  {
+    "name": "Bow River Substation A",
+    "type": "Substation",
+    "latitude": 51.0447,
+    "longitude": -114.0719,
+    "status": "Maintenance",
+    "lastUpdated": "2024-12-08T09:15:00Z"
+  },
+  {
+    "name": "Crowfoot Wind Turbine Cluster",
+    "type": "Wind",
+    "latitude": 51.1289,
+    "longitude": -114.2134,
+    "status": "Active",
+    "lastUpdated": "2025-02-01T11:00:00Z"
+  },
+  {
+    "name": "Downtown Calgary District Heating Plant",
+    "type": "District Energy",
+    "latitude": 51.0486,
+    "longitude": -114.0708,
+    "status": "Active",
+    "lastUpdated": "2025-02-15T08:30:00Z"
+  },
+  {
+    "name": "Glenmore Reservoir Hydro Unit 2",
+    "type": "Hydro",
+    "latitude": 50.9845,
+    "longitude": -114.0923,
+    "status": "Offline",
+    "lastUpdated": "2024-12-12T16:45:00Z"
+  },
+  {
+    "name": "Macleod Trail Battery Storage",
+    "type": "Battery Storage",
+    "latitude": 51.0312,
+    "longitude": -114.0589,
+    "status": "Active",
+    "lastUpdated": "2025-02-14T07:00:00Z"
+  },
+  {
+    "name": "Stoney Trail East Transformer Station",
+    "type": "Substation",
+    "latitude": 51.0678,
+    "longitude": -113.8912,
+    "status": "Maintenance",
+    "lastUpdated": "2024-11-20T13:20:00Z"
+  },
+  {
+    "name": "Fish Creek Park Solar Farm",
+    "type": "Solar",
+    "latitude": 50.9123,
+    "longitude": -114.0345,
+    "status": "Active",
+    "lastUpdated": "2025-01-28T12:00:00Z"
+  },
+  {
+    "name": "Inglewood Biomass CHP",
+    "type": "Biomass",
+    "latitude": 51.0389,
+    "longitude": -114.0012,
+    "status": "Offline",
+    "lastUpdated": "2024-12-18T10:30:00Z"
+  },
+  {
+    "name": "Saddledome Arena Solar Rooftop",
+    "type": "Solar",
+    "latitude": 51.0372,
+    "longitude": -114.0523,
+    "status": "Active",
+    "lastUpdated": "2025-02-16T09:15:00Z"
+  },
+  {
+    "name": "Calgary Airport Microgrid",
+    "type": "Microgrid",
+    "latitude": 51.1134,
+    "longitude": -114.0203,
+    "status": "Active",
+    "lastUpdated": "2025-02-11T06:00:00Z"
+  },
+  {
+    "name": "Nose Hill Wind Sensor Station",
+    "type": "Wind",
+    "latitude": 51.1098,
+    "longitude": -114.1245,
+    "status": "Maintenance",
+    "lastUpdated": "2024-12-01T14:00:00Z"
+  },
+  {
+    "name": "Shepard Energy Centre Gas Unit 3",
+    "type": "Natural Gas",
+    "latitude": 50.9456,
+    "longitude": -113.9234,
+    "status": "Active",
+    "lastUpdated": "2025-02-13T04:30:00Z"
+  },
+  {
+    "name": "West Hills Distribution Hub",
+    "type": "Substation",
+    "latitude": 51.0567,
+    "longitude": -114.1987,
+    "status": "Offline",
+    "lastUpdated": "2024-11-28T11:00:00Z"
+  },
+  {
+    "name": "University of Calgary Solar Carport",
+    "type": "Solar",
+    "latitude": 51.0789,
+    "longitude": -114.1312,
+    "status": "Active",
+    "lastUpdated": "2025-01-15T15:45:00Z"
+  },
+  {
+    "name": "East Village District Cooling",
+    "type": "District Energy",
+    "latitude": 51.0467,
+    "longitude": -114.0412,
+    "status": "Active",
+    "lastUpdated": "2025-02-09T10:20:00Z"
+  },
+  {
+    "name": "Springbank ESS Pilot",
+    "type": "Battery Storage",
+    "latitude": 51.0923,
+    "longitude": -114.2678,
+    "status": "Maintenance",
+    "lastUpdated": "2024-12-22T08:00:00Z"
+  },
+  {
+    "name": "McKenzie Towne Solar Community",
+    "type": "Solar",
+    "latitude": 50.8934,
+    "longitude": -113.9678,
+    "status": "Active",
+    "lastUpdated": "2025-02-05T13:30:00Z"
+  },
+  {
+    "name": "Bowness Feeder Station",
+    "type": "Substation",
+    "latitude": 51.0987,
+    "longitude": -114.2134,
+    "status": "Offline",
+    "lastUpdated": "2024-12-05T17:00:00Z"
+  },
+  {
+    "name": "Calgary Transit CTrain Solar Canopy",
+    "type": "Solar",
+    "latitude": 51.0623,
+    "longitude": -114.0789,
+    "status": "Active",
+    "lastUpdated": "2025-01-22T09:00:00Z"
+  }
+]
